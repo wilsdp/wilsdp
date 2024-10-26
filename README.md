@@ -1,7 +1,7 @@
-### Hi, I’m Wils!✨
+### Hi, I’m Wils!☘
 
 👩‍💻 Softwer Developer sharing about my journey and learnings in tech. <br/>
-👩‍🎓 Studied IT Computer Science at St. Vincents' College Incorporated, PH📍
+👩‍🎓 Studied IT Computer Science at St. Vincents' College Incorporated, PH📍 <br/>
 🌱 I'm still currently learning various of tech stacks. <br/>
 
 ## 🌐 Socials:
