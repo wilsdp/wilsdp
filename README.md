@@ -1,10 +1,10 @@
-### Hi, I’m Wils!☘
+## Hi, I’m Wils!☘
 
 👩‍💻 Softwer Developer sharing about my journey and learnings in tech. <br/>
 👩‍🎓 Studied IT Computer Science at St. Vincents' College Incorporated, PH📍 <br/>
 🌱 I'm still currently learning various of tech stacks. <br/>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/script.s7/profilecard/?igsh=MWlqcWRrNHdwNGxzag==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/wilsliedipolog) 
 
 ### 💻 Tech Stack:
